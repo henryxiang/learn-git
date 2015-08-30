@@ -12,6 +12,6 @@ You can get started with Git by reading following material and experimenting wit
 
 * [Git tutorial 1](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/master/docs/gittutorial.html)
 * [Git tutorial 2](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/master/docs/gittutorial-2.html)
-* [Everyday Git](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/docs/everyday.html)
-* [Git workflow](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/docs/gitworkflows.html)
-* [Git user manual](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/docs/user-manual.html)
+* [Everyday Git](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/master/docs/everyday.html)
+* [Git workflow](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/master/docs/gitworkflows.html)
+* [Git user manual](http://htmlpreview.github.io/?https://raw.githubusercontent.com/henryxiang/learn-git/master/docs/user-manual.html)
