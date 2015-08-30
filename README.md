@@ -1,12 +1,12 @@
-http://htmlpreview.github.io/?https://www.github.com/henryxiang/learn-git/docs/gittutorial.html Learn Git
+# Learn Git
 
-http://htmlpreview.github.io/?https://www.github.com/henryxiang/learn-git/docs/gittutorial.htmlhttp://htmlpreview.github.io/?https://www.github.com/henryxiang/learn-git/docs/gittutorial.html Installing Git
+## Installing Git
 
 Before you start using Git, you need to install it on your computer.
 
 For Windows users, you can either get the [Git Windows Installer](http://git-scm.com/downloads/win) or [babun](http://babun.github.io), a Windows shell program that has Git built-in.
 
-http://htmlpreview.github.io/?https://www.github.com/henryxiang/learn-git/docs/gittutorial.htmlhttp://htmlpreview.github.io/?https://www.github.com/henryxiang/learn-git/docs/gittutorial.html Getting Started
+## Getting Started
 
 You can get started with Git by reading following material and experimenting with various Git command line tools:
 
