@@ -27,11 +27,14 @@ See where Git is located:
 Get the version of Git:
 `git --version`
 
-Configure Git user
+Configure Git user:
+
 `git config --global user.name "Your Name"`
+
 `git config --global user.email "you@example.com"`
 
 Create an alias (shortcut) for `git status`:
+
 `git config --global alias.st status`
 
 
