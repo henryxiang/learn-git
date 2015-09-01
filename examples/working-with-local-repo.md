@@ -101,7 +101,7 @@ Working with a Local Repository
 
 `git checkout feature`
 
-`echo "feature 1" >> hello.txt && git add . && git commit -m "added feature 1"
+`echo "feature 1" >> hello.txt && git add . && git commit -m "added feature 1"`
 
 `git lg`
 
