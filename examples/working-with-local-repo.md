@@ -17,7 +17,7 @@ Working with a Local Repository
 
 `ls -a`
 
-`tree .git
+`tree .git`
 
 ### Create a new file.
 
